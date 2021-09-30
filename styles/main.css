@@ -8,7 +8,7 @@
 }
 .shop {
     flex-basis: 16%;
-    border: 1px dotted black;
+    border: 1px dotted green;
     padding: 1em; 
     margin: 0.5em;
     text-align: center; /* Center align the text in the boxes */
